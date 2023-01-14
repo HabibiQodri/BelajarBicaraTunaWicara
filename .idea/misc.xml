@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/drawable/adik.xml" value="0.3728205128205128" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/drawable/ayahh.xml" value="0.21875" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/drawable/benda.xml" value="0.3435185185185185" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/drawable/benda2.xml" value="0.3435185185185185" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/drawable/book1.xml" value="0.33796296296296297" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/drawable/car.xml" value="0.21875" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/drawable/custome_button.xml" value="0.3728205128205128" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/drawable/food.xml" value="0.21875" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/drawable/hand.xml" value="0.21875" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/drawable/ic_alternating_arrowhead.xml" value="0.3435185185185185" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/drawable/ic_baseline_circle_24.xml" value="0.21875" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/drawable/ic_baseline_groups_24.xml" value="0.32685185185185184" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/drawable/ic_baseline_groups_2_24.xml" value="0.32685185185185184" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.3435185185185185" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/drawable/ic_baseline_precision_manufacturing_24.xml" value="0.32685185185185184" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/drawable/ic_baseline_skateboarding_24.xml" value="0.33796296296296297" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/drawable/ic_page_turner.xml" value="0.21875" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/drawable/keluarga.xml" value="0.21875" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/drawable/list.xml" value="0.21875" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/drawable/pet.xml" value="0.21875" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/drawable/pilih.xml" value="0.21875" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/drawable/pilih2.xml" value="0.21875" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/layout/activity_adik.xml" value="0.2586050724637681" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/layout/activity_anggur.xml" value="0.23505434782608695" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/layout/activity_apel.xml" value="0.23505434782608695" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/layout/activity_ayah.xml" value="0.33" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/layout/activity_ayam.xml" value="0.23505434782608695" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/layout/activity_biskuit.xml" value="0.25" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/layout/activity_burung.xml" value="0.23505434782608695" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/layout/activity_bus.xml" value="0.33" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/layout/activity_daftar_anggota_tubuh.xml" value="0.33" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/layout/activity_daftar_binatang.xml" value="0.33" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/layout/activity_daftar_buah_buahan.xml" value="0.33" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/layout/activity_daftar_kata_benda.xml" value="0.33" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/layout/activity_daftar_keluarga.xml" value="0.33" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/layout/activity_daftar_kendaraan.xml" value="0.33" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/layout/activity_daftar_makanan.xml" value="0.33" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/layout/activity_durian.xml" value="0.23505434782608695" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/layout/activity_gajah.xml" value="0.23505434782608695" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/layout/activity_harimau.xml" value="0.23505434782608695" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/layout/activity_hidung.xml" value="0.25407608695652173" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/layout/activity_ibu.xml" value="0.25" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/layout/activity_ikan.xml" value="0.23505434782608695" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/layout/activity_jeruk.xml" value="0.23505434782608695" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/layout/activity_kakak.xml" value="0.2586050724637681" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/layout/activity_kakek.xml" value="0.2586050724637681" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/layout/activity_kaki.xml" value="0.25407608695652173" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/layout/activity_kapal.xml" value="0.33" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/layout/activity_kepala.xml" value="0.25407608695652173" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/layout/activity_kereta.xml" value="0.33" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/layout/activity_kucing.xml" value="0.33" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/layout/activity_mangga.xml" value="0.23505434782608695" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/layout/activity_mata.xml" value="0.25407608695652173" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/layout/activity_menu.xml" value="0.33" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/layout/activity_mi.xml" value="0.33" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/layout/activity_mobil.xml" value="0.25" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/layout/activity_monyet.xml" value="0.23505434782608695" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/layout/activity_motor.xml" value="0.33" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/layout/activity_mulut.xml" value="0.2545289855072464" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/layout/activity_nanas.xml" value="0.23505434782608695" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/layout/activity_nasi.xml" value="0.33" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/layout/activity_nenek.xml" value="0.2586050724637681" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/layout/activity_permen.xml" value="0.2164855072463768" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/layout/activity_pesawat.xml" value="0.33" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/layout/activity_pisang.xml" value="0.23505434782608695" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/layout/activity_sayur.xml" value="0.2164855072463768" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/layout/activity_sepeda.xml" value="0.33" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/layout/activity_susu.xml" value="0.2164855072463768" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/layout/activity_tangan.xml" value="0.1762917933130699" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/layout/activity_telinga.xml" value="0.2545289855072464" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/layout/activity_telur.xml" value="0.2164855072463768" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/layout/asd_activity.xml" value="0.1762917933130699" />
+        <entry key="..\:/Habibi/Programming/Android Studio/latihan/app/src/main/res/layout/menu_activity.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

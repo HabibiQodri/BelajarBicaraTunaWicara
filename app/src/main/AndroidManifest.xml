@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.habibi.latihan" >
+    <uses-permission android:name="android.permission.INTERNET" />
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Belajar Bicara"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Design.Light.NoActionBar" >
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".MenuActivity"
+            android:exported="true">
+        </activity>
+
+        <activity android:name=".KataBendaActivity"
+            android:exported="true">
+        </activity>
+        <activity android:name=".BuahBuahanActivity"
+            android:exported="true">
+        </activity>
+        <activity android:name=".BinatangActivity"
+            android:exported="true">
+        </activity>
+        <activity android:name=".KeluargaActivity"
+            android:exported="true">
+        </activity>
+
+        <activity android:name=".AnggotaTubuhActivity"
+            android:exported="true">
+        </activity>
+
+        <activity android:name=".MakananActivity"
+            android:exported="true">
+        </activity>
+
+
+        <activity android:name=".KendaraanActivity"
+            android:exported="true">
+        </activity>
+        <activity android:name=".AyahActivity"
+            android:exported="true">
+        </activity>
+        <activity android:name=".IbuActivity"
+            android:exported="true">
+        </activity>
+
+        <activity android:name=".AdikActivity"
+            android:exported="true">
+        </activity>
+
+        <activity android:name=".KakakActivity"
+            android:exported="true">
+        </activity>
+
+        <activity android:name=".KakekActivity"
+            android:exported="true">
+        </activity>
+
+        <activity android:name=".NenekActivity"
+            android:exported="true">
+        </activity>
+        <activity android:name=".HidungActivity"
+            android:exported="true">
+        </activity>
+        <activity android:name=".KepalaActivity"
+            android:exported="true">
+        </activity>
+        <activity android:name=".MataActivity"
+            android:exported="true">
+        </activity>
+        <activity android:name=".MulutActivity"
+            android:exported="true">
+        </activity>
+        <activity android:name=".TelingaActivity"
+            android:exported="true">
+        </activity>
+        <activity android:name=".TanganActivity"
+            android:exported="true">
+        </activity>
+        <activity android:name=".KakiActivity"
+            android:exported="true">
+        </activity>
+        <activity android:name=".AnggurActivity"
+            android:exported="true">
+        </activity>
+        <activity android:name=".ApelActivity"
+            android:exported="true">
+        </activity>
+        <activity android:name=".DurianActivity"
+            android:exported="true">
+        </activity>
+        <activity android:name=".JerukActivity"
+            android:exported="true">
+        </activity>
+        <activity android:name=".NanasActivity"
+            android:exported="true">
+        </activity>
+        <activity android:name=".ManggaActivity"
+            android:exported="true">
+        </activity>
+        <activity android:name=".PisangActivity"
+            android:exported="true">
+        </activity>
+        <activity android:name=".AyamActivity"
+            android:exported="true">
+        </activity>
+        <activity android:name=".IkanActivity"
+            android:exported="true">
+        </activity>
+        <activity android:name=".KucingActivity"
+            android:exported="true">
+        </activity>
+        <activity android:name=".BurungAcivity"
+            android:exported="true">
+        </activity>
+        <activity android:name=".MonyetActivity"
+            android:exported="true">
+        </activity>
+        <activity android:name=".HarimauActivity"
+            android:exported="true">
+        </activity>
+        <activity android:name=".GajahActivity"
+            android:exported="true">
+        </activity>
+        <activity android:name=".MotorActivity"
+            android:exported="true">
+        </activity>
+        <activity android:name=".MobilActivity"
+            android:exported="true">
+        </activity>
+        <activity android:name=".SepedaActivity"
+            android:exported="true">
+        </activity>
+        <activity android:name=".BusActivity"
+            android:exported="true">
+        </activity>
+        <activity android:name=".KapalActivity"
+            android:exported="true">
+        </activity>
+        <activity android:name=".KeretaActivity"
+            android:exported="true">
+        </activity>
+        <activity android:name=".PesawatActivity"
+            android:exported="true">
+        </activity>
+        <activity android:name=".NasiActivity"
+            android:exported="true">
+        </activity>
+        <activity android:name=".SayurActivity"
+            android:exported="true">
+        </activity>
+        <activity android:name=".BiskuitActivity"
+            android:exported="true">
+        </activity>
+        <activity android:name=".SusuActivity"
+            android:exported="true">
+        </activity>
+        <activity android:name=".PermenActivity"
+            android:exported="true">
+        </activity>
+        <activity android:name=".TelurActivity"
+            android:exported="true">
+        </activity>
+        <activity android:name=".MiActivity"
+            android:exported="true">
+        </activity>
+    </application>
+
+</manifest>
